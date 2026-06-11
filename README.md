@@ -1,4 +1,4 @@
-# Hi, I'm Amir Mohammadi 👋
+# Hi, I'm Amir 👋
 
 **Data Analyst & Data Scientist** based in Sydney, Australia — turning complex data into decisions that matter.
 
