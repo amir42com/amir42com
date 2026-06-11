@@ -3,7 +3,7 @@
 **Data Analyst & Data Scientist** based in Sydney, Australia — turning complex data into decisions that matter.
 
 🎓 Master of Data Science · Monash University · High Distinction (WAM 84/100)
-📍 Sydney, NSW · Open to roles Australia-wide · Full work rights (485 visa, valid to 2029)
+📍 Sydney, NSW · Open to roles Australia-wide ·
 
 ---
 
