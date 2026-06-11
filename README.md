@@ -74,7 +74,7 @@ Portfolio project demonstrating how to design and build a production-style SQL S
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amir42com-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/amir42com/)
 [![Website](https://img.shields.io/badge/Website-amir42.com-000000?style=flat&logo=safari)](https://amir42.com/)
-[![Email](https://img.shields.io/badge/Email-amir%40amir42.com-EA4335?style=flat&logo=gmail)](mailto:amir@amir42.com)
+[![Email](https://img.shields.io/badge/Email-amir.mohammadi%40hotmail.com-EA4335?style=flat&logo=gmail)](mailto:amir.mohammadi@hotmail.com)
 
 ---
 
