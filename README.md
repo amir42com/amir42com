@@ -3,7 +3,7 @@
 **Data Analyst & Data Scientist** based in Sydney, Australia — turning complex data into decisions that matter.
 
 🎓 Master of Data Science · Monash University · High Distinction (WAM 84/100)
-📍 Sydney, NSW · Open to roles Australia-wide ·
+📍 Sydney, NSW
 
 ---
 
@@ -13,7 +13,7 @@ I work across the full data stack — from writing SQL queries and building ETL 
 
 My thesis at Monash built a multilingual AI-text detection system using transformer-based NLP (XLM-RoBERTa), achieving **92% accuracy** across English, Spanish, and French — one of the more technically challenging projects I've worked on, and one I'm proud of.
 
-Currently supporting the **Indigenous Education Foundation (IEF)** as a Data & Analytics Officer, working with GA4, Google Ads, and dashboard reporting to improve digital performance for a meaningful cause.
+My experience includes data and analytics work with the **Indigenous Education Foundation (IEF)**, using GA4, Google Ads, and dashboards to support digital reporting.
 
 ---
 
@@ -41,7 +41,7 @@ Currently supporting the **Indigenous Education Foundation (IEF)** as a Data & A
 
 ## Featured projects
 
-### 🔬 [AI-Generated Text Detection](https://github.com/amir42com/AI_Generated_Text_Detection)
+### 🔬 [AI-Generated Text Detection](https://github.com/amir42com/multilingual-ai-text-detection)
 Master's thesis project. Built a multilingual NLP pipeline to distinguish human-written from AI-generated text across English, Spanish, and French.
 - Model: XLM-RoBERTa (transformer-based)
 - Dataset: 24,000 texts from Wikipedia, BBC News, GPT-3.5, Mistral 7B, Gemini Pro
@@ -52,7 +52,7 @@ Master's thesis project. Built a multilingual NLP pipeline to distinguish human-
 
 ---
 
-### 🏗️ [SQL Data Warehouse — Medallion Architecture](https://github.com/amir42com/sql-data-warehouse)
+### 🏗️ [SQL Data Warehouse — Medallion Architecture](https://github.com/amir42com/retail-data-warehouse)
 Portfolio project demonstrating how to design and build a production-style SQL Server data warehouse using the Bronze → Silver → Gold Medallion Architecture.
 - ETL pipelines for structured data ingestion
 - Dimensional modelling and star schema design
@@ -62,11 +62,11 @@ Portfolio project demonstrating how to design and build a production-style SQL S
 
 ---
 
-## What I'm currently working on
+## Focus areas
 
-- 📊 Optimising GA4 and Google Ads analytics for a nonprofit (IEF)
-- 🔍 Actively seeking full-time **Data Analyst** or **Data Scientist** roles in Sydney / Australia-wide
-- 📚 Expanding my portfolio with new projects in forecasting and digital analytics
+- Data science, machine learning, and forecasting
+- Digital analytics, data engineering, and dashboards
+- Building practical software products
 
 ---
 
@@ -74,8 +74,8 @@ Portfolio project demonstrating how to design and build a production-style SQL S
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amir42com-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/amir42com/)
 [![Website](https://img.shields.io/badge/Website-amir42.com-000000?style=flat&logo=safari)](https://amir42.com/)
-[![Email](https://img.shields.io/badge/Email-amir.mohammadi%40hotmail.com-EA4335?style=flat&logo=gmail)](mailto:amir.mohammadi@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-hello%40amir42.com-EA4335?style=flat&logo=gmail)](mailto:hello@amir42.com)
 
 ---
 
-*Open to opportunities · Full work rights in Australia · Available immediately*
+*Data science · Analytics · Software products*
